@@ -1,0 +1,196 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Document</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        h1 {
+            color: goldenrod;
+            text-align: center;
+            font-size: 80;
+            font-family: 'proxima nova', bold, serif;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: white;
+            font-size: 40;
+            font-family: 'proxima nova', bold, serif;
+        }
+
+        h3 {
+            text-align: right;
+            color: red;
+            font-size: 25;
+        }
+
+        main {
+            height: 50vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border: 1px solid blue;
+            padding: 80px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        main article {
+            width: 35%;
+            text-align: center;
+        }
+        
+    </style>
+</head>
+<body>
+    
+    <header>
+
+    <//h1>Welcome to Atlas Technology</h1>
+    <//h2>The World in your Palms</h2>
+        <img>
+        <img class="Asset_5WEB.png" src="Asset_5WEB.png" alt=""/>
+    <//h3>AGE: 6 weeks</h3>
+
+      
+
+        <style>
+            .Asset_5WEB.png {
+                image resize:100px;
+                image-resolution: 100px;
+                width: 50px;
+                height: 30px;
+                object-fit: contain;
+                object-position: fill;
+            }
+        </style>
+
+    </header>
+    <main>
+        <style>
+            section{
+                background-color: brown;
+            }
+            .article {
+                font-size: 25px;
+                font-family: 'proxima nova', Times, bold;
+            }
+            section{
+                background-color: brown;
+            }
+        </style>
+
+        <p class="article">
+
+
+            
+                This is the best place to find awesome and amiable rottweiler puppies. When you hear the saying, "A dog is a man's best friend", you'll find those dogs here!
+            
+                Rottweilers have been selected for guarding and protection work, and this must be kept in mind at all times. Well-socialized rottweilers get along nicely with people and other dogs, but males in particular can be a bit aggressive and dominant. Active, intelligent dogs, they are fully confident enough to act on their own, so they need guidance right from the start.
+                If left to their own devices, rottweilers can become nuisance barkers or diggers, and with their size they are capable of much destruction. Bred to work, Rottweilers do best with training and jobs to do, even if just as a child's companion. Aggression can be a problem, and this dog is fully capable of inflicting severe damage, so rottweilers do need a firm, patient hand and a knowledgeable owner.
+                We have variety of pet food available in various Kilograms. Place your order and get one free when you purchase 5 packs of any food brand.
+           
+        </p>
+        <style>
+            .article{
+                color: white;
+            }
+        </style>
+            
+    </main>
+    <style>
+        button{
+            background-color: blue;
+            color: white;
+            border: none;
+            height: 50px;
+            width: 200px;
+            border-radius: 2px;
+            font-size: 25px;
+            font-weight: 100px;
+            font-family: 'proxima nova', Times, serif;
+            margin-top: 50;
+            margin-bottom: 50px;
+            cursor: pointer;
+
+        }
+    </style>
+    <button>Place Order</button>
+
+    <style>
+        .href {
+            margin-bottom: 20px;
+        }
+
+    </style>
+    <a href="https://www.instagram.com/Rottwelerlife/">link to instagram page</a>
+
+
+
+    <style>
+        .Your {
+            font-size: 20px;
+        }
+    </style>
+
+    <style>
+        body{
+            background-color:black;
+            width: 1920px;
+        }
+    </style>
+
+    <footer class="Your">Your best friend is just some clicks away</footer>
+
+
+
+    <style>
+        .copyright{
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+    </style>
+
+    <p class="copyright">
+       www.rotpet.com copyright 2022
+    </p>
+
+
+    <style>
+        .all {
+            font-size: 14px;
+            margin-bottom: 20px;
+            color: white;
+        }
+    </style>
+
+    <style>
+        .Your{
+            color: white;
+        }
+    </style>
+
+    <style>
+        .www{
+            color: white;
+        }
+    </style>
+        
+
+    <p class="All rights reserved">
+       All rights reserved
+    </p>
+</p>
+
+</body>
+</html>
